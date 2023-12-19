@@ -1,2 +1,2 @@
-# CSCI-N311
-Advanced Database Programming, Oracle
+# Advanced Database Programming, Oracle
+Advanced Database Programming, Oracle coursework 
